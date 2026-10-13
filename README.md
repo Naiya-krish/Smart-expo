@@ -1,7 +1,7 @@
-*Run it in the terminal r installing the requirement*
-pip install -r requirements.txt 
+*Run it in the terminal r installing the requirement* 
+#pip install -r requirements.txt# 
 *Run it r checking the r viewing the streamlit live simulation*
-streamlit run app.py
+#streamlit run app.py#
 
 *Markdown*
 # 🛍️ Smart Retail & Expo Kiosk with Privacy-Preserving Engagement Analytics
